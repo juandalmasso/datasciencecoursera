@@ -1,2 +1,2 @@
 # datasciencecoursera
-This repo is part of Datscience specilization 
+This repo is part of Datscience specialization 
